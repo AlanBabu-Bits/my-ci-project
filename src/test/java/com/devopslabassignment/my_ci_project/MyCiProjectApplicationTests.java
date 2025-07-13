@@ -1,10 +1,10 @@
-package com.devopslabassignment.devopslab;
+package com.devopslabassignment.my_ci_project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DevopslabApplicationTests {
+class MyCiProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
