@@ -8,6 +8,8 @@ public class MyCiProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyCiProjectApplication.class, args);
+		// Task 4 change to trigger CI
+		System.out.println("Just Some Minor Changes"); 
 	}
 
 }
